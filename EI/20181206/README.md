@@ -1,4 +1,4 @@
-# Corso Propedeutico: Elementi di Informatica
+# EI - Lezione del 6 dicembre 2018
 
 ## Argomenti
 
@@ -18,12 +18,11 @@
     * `threading`
     * *user-space* e *kernel-space*
   * `shell` e metafore di `shell`
-  * applicazioni:
-    * applicativi utente
-    * demoni
-  * reti:
-    * strutture di rete
-    * schemi `client-server`
-* *linguaggi di programmazione*:
-  * linguaggi compilati
-  * linguaggi interpretati
+
+## Lavagne
+
+![whiteboard 1](./P_EI_2018-12-06_14.57.47_1.jpg)
+
+![whiteboard 2](./P_EI_2018-12-06_14.57.47_2.jpg)
+
+![whiteboard 3](./P_EI_2018-12-06_14.57.47_3.jpg)
