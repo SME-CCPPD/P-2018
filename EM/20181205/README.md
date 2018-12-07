@@ -1,4 +1,4 @@
-# Corso Propedeutico: Elementi di Matematica
+# EM - Lezione del 5 dicembre 2018
 
 ## Argomenti
 
@@ -7,8 +7,6 @@
   * algebra
   * studio delle funzioni
 * interpolazione lineare
-* curve
-* polinomi
 * estensione dei domini numerici
   * naturali
   * interi
@@ -17,8 +15,9 @@
   * trascendentali
   * reali
   * complessi
-* conversione trigonometria -> esponenti complessi
-  * formula di Eulero
-  * corollari
-* funzioni di variabile complessa
-  * funzione Z
+
+## Lavagne
+
+![whiteboard 1](./P_EM_2018-12-05_17.32.46_1.jpg)
+
+![whiteboard 2](./P_EM_2018-12-05 17.32.46_2.jpg)
