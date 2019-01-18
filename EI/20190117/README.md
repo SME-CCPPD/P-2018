@@ -1,4 +1,4 @@
-# EI - Lezione del 16 gennaio 2019
+# EI - Lezione del 17 gennaio 2019
 
 ## Argomenti
 
@@ -8,5 +8,8 @@
     * `mono-task`
     * `multi-task`
     * `threading`
-    * *user-space* e *kernel-space*
   * `shell` e metafore di `shell`
+
+## Lavagne
+
+![whiteboard 1](./P_EI_2019-01-17_14.54.45_1.jpg)
